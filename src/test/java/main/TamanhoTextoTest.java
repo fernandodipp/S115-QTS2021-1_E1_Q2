@@ -3,8 +3,6 @@ package main;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
-import aula2.Calculadora;
 import junit.framework.Assert;
 
 public class TamanhoTextoTest {
